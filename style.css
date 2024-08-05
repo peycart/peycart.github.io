@@ -1,0 +1,33 @@
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(152, 25, 25);
+}
+
+#projects {
+    background-color: rgb(4, 1, 1);
+    color: white;
+}
+
+#about {
+    background-color: rgb(28, 3, 3);
+}
+
+#contact {
+    background-color: #f3f4f5;
+    color:  rgb(152, 25, 25);
+}
+
+
+.footer {
+    background-color: rgb(152, 25, 25);
+    color: white;
+}
+
+.navbar {
+   background-color:rgb(152, 25, 25);
+}
+
+section{
+    padding-top: 5rem;
+}
